@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	inputFile := "input-1.txt"
+	inputFile := "input.txt"
 
 	file, err := os.Open(inputFile)
 
